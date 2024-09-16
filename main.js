@@ -6,10 +6,10 @@ const myFirstName = "Giano";
 const myLastName = "Reed";
 const myFavoriteCeleb = "Kobe Bryant";
 const mySentence = myFirstName + myLastName + myFavoriteCeleb;
-const myLuckyNum = 7
-const myAge = 27
-const myHeight = 6.0
-const myFavoriteYear = 2016
+const myLuckyNum = 7;
+const myAge = 27;
+const myHeight = 6.0;
+const myFavoriteYear = 2016;
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
